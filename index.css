@@ -1,0 +1,36 @@
+body{
+    background-color: #f0f5f3;  
+    
+}
+.h1{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 4px 5px white;
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+.back{
+    background-color: aquamarine;
+}
+.img{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    box-shadow: 3px 4px 18px;
+    
+}
+.paragraph{
+padding: 25px 25px;
+background-color: rgb(46, 139, 87, 0.25);
+margin: 70px;
+margin-top: 50px;
+box-shadow: 10px 2px 10px gray;
+}
+.title {
+    font-size: 35px;
+    color: white;
+    text-shadow: 2px 3px 6px black;
+    text-align: center;
+}
